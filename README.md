@@ -1,2 +1,0 @@
-# chandanparihar.com
-Portfolio Website
