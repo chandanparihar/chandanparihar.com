@@ -1,0 +1,247 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="chandanparihar.com" resolutions="1x" timestamp="1460905863107">
+  <folder name="css">
+    <file name="site_global.css" crc="30373051"/>
+    <file name="master_a-master.css" crc="262542679" ref="contact:services:resume:about:work"/>
+    <file name="nomq_preview_master_a-master.css" crc="104864948" ref="contact:services:resume:about:work"/>
+    <file name="contact.css" crc="4164763250" ref="contact"/>
+    <file name="nomq_contact.css" crc="4032981550" ref="contact"/>
+    <file name="iefonts_contact.css" crc="19879270" ref="contact"/>
+    <file name="index.css" crc="3979055314" ref="index"/>
+    <file name="nomq_index.css" crc="101481858" ref="index"/>
+    <file name="iefonts_index.css" crc="19879270" ref="index"/>
+    <file name="services.css" crc="272948519" ref="services"/>
+    <file name="nomq_services.css" crc="4059332828" ref="services"/>
+    <file name="iefonts_services.css" crc="19879270" ref="services"/>
+    <file name="resume.css" crc="256449358" ref="resume"/>
+    <file name="nomq_resume.css" crc="4259340941" ref="resume"/>
+    <file name="iefonts_resume.css" crc="19879270" ref="resume"/>
+    <file name="about.css" crc="3930882857" ref="about"/>
+    <file name="nomq_about.css" crc="187768039" ref="about"/>
+    <file name="iefonts_about.css" crc="19879270" ref="about"/>
+    <file name="work.css" crc="4140495953" ref="work"/>
+    <file name="nomq_work.css" crc="3784247971" ref="work"/>
+    <file name="iefonts_work.css" crc="19879270" ref="work"/>
+  </folder>
+  <folder name="assets">
+    <file name="new.jpg" crc="267299032" seo="true" mt="1458743720000"/>
+    <file name="new02.jpg" crc="203800153" seo="true" mt="1458743760000"/>
+    <file name="new03.jpg" crc="74552294" seo="true" mt="1458743782000"/>
+    <file name="new05.jpg" crc="4060445852" seo="true" mt="1458744274000"/>
+    <file name="new06.jpg" crc="3903030990" seo="true" mt="1458744338000"/>
+    <file name="new08.jpg" crc="3952469125" seo="true" mt="1458744456000"/>
+    <file name="chandanparihar.pdf" crc="3945882642" seo="true" mt="1460535318000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:about:services:work:resume:contact"/>
+    <file name="museutils.js" crc="3790713428" ref="index:about:services:work:resume:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:about:services:work:resume:contact"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:about:services:work:resume:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:about:services:work:resume:contact"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:about:services:work:resume:contact"/>
+    <file name="webpro.js" crc="329496574" ref="index:about:services:work:resume:contact"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:services:work"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:services:work"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:services:work"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:services:work:resume:contact"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about:services:work:resume:contact"/>
+    <file name="pie.js" crc="3827607177" ref="about:services:work"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="about:services:work:resume:contact"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u46769.php" crc="162299519" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="78425647" ref="index"/>
+    <file name="identity-01.svg" crc="299393011" ref="index"/>
+    <file name="identity-01_poster_u998.png" crc="3918862688" ref="index"/>
+    <file name="identity-02.svg" crc="432785743" ref="index"/>
+    <file name="identity-02_poster_u1004.png" crc="34228980" ref="index"/>
+    <file name="logo-behance.svg" crc="4040559276" ref="index"/>
+    <file name="logo-behance_poster_u2842.png" crc="3965106147" ref="index"/>
+    <file name="logo-twitter.svg" crc="4113550133" ref="index"/>
+    <file name="logo-twitter_poster_u2876.png" crc="4274637978" ref="index"/>
+    <file name="logo-facebook.svg" crc="452914161" ref="index"/>
+    <file name="logo-facebook_poster_u2868.png" crc="483438433" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:services:work:resume:contact"/>
+    <file name="tablet menu.svg" crc="477189361" ref="index:about"/>
+    <file name="tablet menu_poster_u2505.png" crc="77550686" ref="index:about"/>
+    <file name="close.svg" crc="3937155186" ref="index:about"/>
+    <file name="close_poster_u38963.png" crc="4105725559" ref="index:about"/>
+    <file name="about-favicon.ico" crc="78425647" ref="about"/>
+    <file name="artwork-2.svg" crc="4038421408" ref="about:services:work:resume:contact"/>
+    <file name="artwork 2_poster_.png" crc="4267444620" ref="about"/>
+    <file name="profile.jpg" crc="497866422" ref="about"/>
+    <file name="profile01.jpg" crc="421716975" ref="about"/>
+    <file name="education-01.svg" crc="4079058525" ref="about"/>
+    <file name="education-01_poster_u5743.png" crc="270445032" ref="about"/>
+    <file name="footer-01-01.svg" crc="4234398708" ref="about:services"/>
+    <file name="footer-01-01_poster_u35466.png" crc="3775519049" ref="about:services"/>
+    <file name="social-01.svg" crc="58196614" ref="about:services"/>
+    <file name="social-01_poster_u32369.png" crc="400124233" ref="about:services"/>
+    <file name="social-08.svg" crc="508053473" ref="about:services"/>
+    <file name="social-08_poster_u128765.png" crc="3813572378" ref="about:services"/>
+    <file name="social-02.svg" crc="4060143739" ref="about:services"/>
+    <file name="social-02_poster_u32393.png" crc="365201434" ref="about:services"/>
+    <file name="social-09.svg" crc="448001609" ref="about:services"/>
+    <file name="social-09_poster_u128757.png" crc="3887936898" ref="about:services"/>
+    <file name="social-03.svg" crc="445982600" ref="about:services"/>
+    <file name="social-03_poster_u32417.png" crc="195362418" ref="about:services"/>
+    <file name="social-10.svg" crc="3966321816" ref="about:services"/>
+    <file name="social-10_poster_u128749.png" crc="202561880" ref="about:services"/>
+    <file name="social-04.svg" crc="109240434" ref="about:services"/>
+    <file name="social-04_poster_u32441.png" crc="490457983" ref="about:services"/>
+    <file name="social-11.svg" crc="4055634355" ref="about:services"/>
+    <file name="social-11_poster_u128741.png" crc="80940566" ref="about:services"/>
+    <file name="social-05.svg" crc="427582899" ref="about:services"/>
+    <file name="social-05_poster_u32449.png" crc="3769066151" ref="about:services"/>
+    <file name="social-12.svg" crc="511596211" ref="about:services"/>
+    <file name="social-12_poster_u128733.png" crc="4287892562" ref="about:services"/>
+    <file name="social-07.svg" crc="3989059611" ref="about:services"/>
+    <file name="social-07_poster_u128725.png" crc="154693771" ref="about:services"/>
+    <file name="social-14.svg" crc="4018577750" ref="about:services"/>
+    <file name="social-14_poster_u32465.png" crc="163053793" ref="about:services"/>
+    <file name="artwork-7.svg" crc="380436733" ref="about:services:work:resume:contact"/>
+    <file name="artwork 7_poster_.png" crc="3928021275" ref="about"/>
+    <file name="services-favicon.ico" crc="78425647" ref="services"/>
+    <file name="selected.svg" crc="4153561097" ref="services"/>
+    <file name="selected_poster_u11049.png" crc="37756983" ref="services"/>
+    <file name="stamp.svg" crc="4232451103" ref="services"/>
+    <file name="stamp_poster_u12130.png" crc="4285590997" ref="services"/>
+    <file name="uxui.svg" crc="4016904661" ref="services"/>
+    <file name="uxui_poster_u135224.png" crc="3866585339" ref="services"/>
+    <file name="web.svg" crc="487858621" ref="services"/>
+    <file name="web_poster_u12760.png" crc="3945070623" ref="services"/>
+    <file name="arch.svg" crc="4252530884" ref="services"/>
+    <file name="arch_poster_u12768.png" crc="3999924315" ref="services"/>
+    <file name="video.svg" crc="4030975009" ref="services"/>
+    <file name="video_poster_u12776.png" crc="485563161" ref="services"/>
+    <file name="work-favicon.ico" crc="78425647" ref="work"/>
+    <file name="new05.jpg" crc="3925652817" seo="true" ref="work"/>
+    <file name="new08.jpg" crc="239340386" seo="true" ref="work"/>
+    <file name="new05-crop-u95564.jpg" crc="4193583453" ref="work"/>
+    <file name="new08-crop-u95544.jpg" crc="62784414" ref="work"/>
+    <file name="arrow-02.svg" crc="318072175" ref="work"/>
+    <file name="arrow-02_poster_u128665.png" crc="3843954853" ref="work"/>
+    <file name="arrow-01.svg" crc="435460036" ref="work"/>
+    <file name="arrow-01_poster_u128657.png" crc="4144364223" ref="work"/>
+    <file name="loading.gif" crc="3815509949" ref="work"/>
+    <file name="artboard 8.svg" crc="3922975080" ref="work"/>
+    <file name="artboard 8_poster_u95349.png" crc="4037281878" ref="work"/>
+    <file name="artboard 8 copy.svg" crc="3805759447" ref="work"/>
+    <file name="artboard 8 copy_poster_u95310.png" crc="3849900465" ref="work"/>
+    <file name="work_slider 02.jpg" crc="306299737" ref="work"/>
+    <file name="new05-crop-u955642.jpg" crc="3979061750" ref="work"/>
+    <file name="new08-crop-u955442.jpg" crc="368404342" ref="work"/>
+    <file name="new051021x574.jpg" crc="4173130565" seo="true" ref="work"/>
+    <file name="new081021x574.jpg" crc="4247815372" seo="true" ref="work"/>
+    <file name="new05-crop-u955643.jpg" crc="515590028" ref="work"/>
+    <file name="new08-crop-u955443.jpg" crc="4078683879" ref="work"/>
+    <file name="new05-crop-u955644.jpg" crc="515590028" ref="work"/>
+    <file name="new08-crop-u955444.jpg" crc="4078683879" ref="work"/>
+    <file name="new05918x517.jpg" crc="281050582" seo="true" ref="work"/>
+    <file name="new08918x517.jpg" crc="3793422213" seo="true" ref="work"/>
+    <file name="new05-crop-u955645.jpg" crc="367286609" ref="work"/>
+    <file name="new08-crop-u955445.jpg" crc="308354703" ref="work"/>
+    <file name="new05-crop-u955646.jpg" crc="367286609" ref="work"/>
+    <file name="new08-crop-u955446.jpg" crc="308354703" ref="work"/>
+    <file name="new05729x410.jpg" crc="3950382372" seo="true" ref="work"/>
+    <file name="new08729x411.jpg" crc="3942004065" seo="true" ref="work"/>
+    <file name="new05-crop-u955647.jpg" crc="219950953" ref="work"/>
+    <file name="new08-crop-u955447.jpg" crc="4157663138" ref="work"/>
+    <file name="work_slider 02-u108230-fr.jpg" crc="4091561982" ref="work"/>
+    <file name="new05561x316.jpg" crc="4185236005" seo="true" ref="work"/>
+    <file name="new08561x316.jpg" crc="3809737891" seo="true" ref="work"/>
+    <file name="new05-crop-u955648.jpg" crc="4107147328" ref="work"/>
+    <file name="new08-crop-u955448.jpg" crc="44622750" ref="work"/>
+    <file name="new05464x262.jpg" crc="268384717" seo="true" ref="work"/>
+    <file name="new08464x261.jpg" crc="338014858" seo="true" ref="work"/>
+    <file name="new05-crop-u98051.jpg" crc="4000894507" ref="work"/>
+    <file name="new08-crop-u98049.jpg" crc="3894611585" ref="work"/>
+    <file name="work_slider 02-u108230-fr2.jpg" crc="4238201195" ref="work"/>
+    <file name="new05438x247.jpg" crc="328645487" seo="true" ref="work"/>
+    <file name="new08438x247.jpg" crc="4141033074" seo="true" ref="work"/>
+    <file name="new05-crop-u980512.jpg" crc="4000894507" ref="work"/>
+    <file name="new08-crop-u980492.jpg" crc="3894611585" ref="work"/>
+    <file name="new05368x208.jpg" crc="3969088992" seo="true" ref="work"/>
+    <file name="new08368x207.jpg" crc="238758140" seo="true" ref="work"/>
+    <file name="new05-crop-u980513.jpg" crc="4000894507" ref="work"/>
+    <file name="new08-crop-u980493.jpg" crc="3894611585" ref="work"/>
+    <file name="work_slider 02-u108230-fr3.jpg" crc="3808822363" ref="work"/>
+    <file name="new05306x173.jpg" crc="3810120019" seo="true" ref="work"/>
+    <file name="new08306x172.jpg" crc="21377662" seo="true" ref="work"/>
+    <file name="new05-crop-u980514.jpg" crc="69248227" ref="work"/>
+    <file name="new08-crop-u980494.jpg" crc="425663615" ref="work"/>
+    <file name="work_slider 02-u108230-fr4.jpg" crc="3801797527" ref="work"/>
+    <file name="resume-favicon.ico" crc="78425647" ref="resume"/>
+    <file name="freelancing-01-02.jpg" crc="138768106" ref="resume"/>
+    <file name="freelancing-01-01.jpg" crc="4136266580" ref="resume"/>
+    <file name="innovative-01.jpg" crc="320008313" ref="resume"/>
+    <file name="innovative-02.jpg" crc="4137188298" ref="resume"/>
+    <file name="rsquare-02.jpg" crc="71244011" ref="resume"/>
+    <file name="rsquare-01.jpg" crc="188895613" ref="resume"/>
+    <file name="skill cart.svg" crc="157331887" ref="resume"/>
+    <file name="skill cart_poster_u128633.png" crc="398606497" ref="resume"/>
+    <file name="resume-01.svg" crc="3966423654" ref="resume"/>
+    <file name="resume-01_poster_u77378.png" crc="4013296854" ref="resume"/>
+    <file name="resume-02.svg" crc="254373243" ref="resume"/>
+    <file name="resume-02_poster_u128681.png" crc="4273763264" ref="resume"/>
+    <file name="resume-03.svg" crc="365085043" ref="resume"/>
+    <file name="resume-03_poster_u128673.png" crc="3974496194" ref="resume"/>
+    <file name="contact-favicon.ico" crc="78425647" ref="contact"/>
+    <file name="send-02-u46770-13.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs.png" crc="320087744" ref="contact"/>
+    <file name="butterfly-01.svg" crc="4102404325" ref="contact"/>
+    <file name="butterfly-01_poster_u128649.png" crc="4266769952" ref="contact"/>
+    <file name="butterfly-02.svg" crc="4291866793" ref="contact"/>
+    <file name="butterfly-02_poster_u128641.png" crc="4221768047" ref="contact"/>
+    <file name="send-02-u46770-132.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r2.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m2.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs2.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-133.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r3.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m3.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs3.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-134.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r4.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m4.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs4.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-135.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r5.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m5.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs5.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-136.png" crc="3951787549" ref="contact"/>
+    <file name="send-01-u46770-13-r6.png" crc="3951787549" ref="contact"/>
+    <file name="send-01-u46770-13-m6.png" crc="3951787549" ref="contact"/>
+    <file name="send-02-u46770-13-fs6.png" crc="3951787549" ref="contact"/>
+    <file name="send-02-u46770-137.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-r7.png" crc="320087744" ref="contact"/>
+    <file name="send-01-u46770-13-m7.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-13-fs7.png" crc="320087744" ref="contact"/>
+    <file name="send-02-u46770-138.png" crc="3926128465" ref="contact"/>
+    <file name="send-01-u46770-13-r8.png" crc="3926128465" ref="contact"/>
+    <file name="send-01-u46770-13-m8.png" crc="3926128465" ref="contact"/>
+    <file name="send-02-u46770-13-fs8.png" crc="3926128465" ref="contact"/>
+    <file name="send-02-u46770-139.png" crc="367292802" ref="contact"/>
+    <file name="send-01-u46770-13-r9.png" crc="367292802" ref="contact"/>
+    <file name="send-01-u46770-13-m9.png" crc="367292802" ref="contact"/>
+    <file name="send-02-u46770-13-fs9.png" crc="367292802" ref="contact"/>
+    <file name="send-02-u46770-1310.png" crc="4174413620" ref="contact"/>
+    <file name="send-01-u46770-13-r10.png" crc="4174413620" ref="contact"/>
+    <file name="send-01-u46770-13-m10.png" crc="4174413620" ref="contact"/>
+    <file name="send-02-u46770-13-fs10.png" crc="4174413620" ref="contact"/>
+    <file name="send-02-u46770-1311.png" crc="3914208242" ref="contact"/>
+    <file name="send-01-u46770-13-r11.png" crc="3914208242" ref="contact"/>
+    <file name="send-01-u46770-13-m11.png" crc="3914208242" ref="contact"/>
+    <file name="send-02-u46770-13-fs11.png" crc="3914208242" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="3945374169" seo="true" mt="1460904067459" redirect="true"/>
+  <file name="about.html" crc="3939266438" seo="true" mt="1460904025821" redirect="true"/>
+  <file name="services.html" crc="134283734" seo="true" mt="1460904068395" redirect="true"/>
+  <file name="work.html" crc="3919288871" seo="true" mt="1460884762864" redirect="true"/>
+  <file name="resume.html" crc="236902787" seo="true" mt="1460884762864" redirect="true"/>
+  <file name="contact.html" crc="240876096" seo="true" mt="1460884762864" redirect="true"/>
+</manifest>
